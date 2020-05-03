@@ -1,0 +1,4 @@
+@use './../../../../_global.scss';
+div {
+  @extend %home-div;
+}

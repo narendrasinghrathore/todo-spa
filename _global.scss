@@ -1,0 +1,17 @@
+%home-div {
+  height: 10vh;
+  font-size: 8vh;
+  padding: 10px;
+}
+
+%list-section {
+  height: 90vh;
+  overflow-y: auto;
+}
+
+%list-item {
+  padding: 10px;
+  margin: 2px 0;
+  border: 1px solid #dedede;
+  box-sizing: border-box;
+}

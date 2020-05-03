@@ -1,0 +1,4 @@
+@use '../../../../../global';
+section {
+  @extend %list-section;
+}
